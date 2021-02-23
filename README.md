@@ -7,5 +7,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: siri.gjersoe@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love inversions
--->
+- ⚡ Fun fact: I love inversions 🤸
