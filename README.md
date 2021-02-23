@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi dear visitor 👋
 
 - 🔭 I’m currently working on various Python scripts
 - 🌱 I’m currently learning 'for loops', functions, and promt options
