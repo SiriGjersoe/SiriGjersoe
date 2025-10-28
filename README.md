@@ -1,7 +1,6 @@
 ### Hi dear visitor 👋
 
 - 🔭 I’m currently working on various Python scripts
-- 🌱 I’m currently learning 'for loops', functions, and promt options
 - 👯 I’m looking to collaborate on NLP projects
 - 💬 Ask me about anything
 - 📫 How to reach me: siri.gjersoe@gmail.com
